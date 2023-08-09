@@ -3,3 +3,6 @@ pytest-cov
 pylint
 black
 ipython
+torch 
+torchvision
+fastai
